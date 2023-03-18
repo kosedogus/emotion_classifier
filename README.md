@@ -7,10 +7,10 @@ Accuracy: 0.94
 F1: 0.9404
 
 
-Training procedure
+**Training procedure**
 The model has trained twice. In the first run with 3 epochs, in the second run with 5.
 
-Training hyperparameters
+**Training hyperparameters**
 The following hyperparameters were used during training:
 
 learning_rate: 2e-05
@@ -29,7 +29,7 @@ num_epochs: 8
 
 
 
-Framework versions
+**Framework versions**
 
 Transformers 4.13.0
 
